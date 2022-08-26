@@ -1,9 +1,9 @@
 // globals
 let data = [
 	{
-		'title':'Osaka',
-		'lat': 34.6937,
-		'lon': 135.5023
+		'title':'Ali House',
+		'lat': 30.291882869853673,
+		'lon': -97.73369188714929
 	},
 	{
 		'title':'Cali',
